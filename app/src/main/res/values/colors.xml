@@ -1,0 +1,35 @@
+<resources>
+
+    <color name="myusedcar_listview_item_button_press_color">#656565</color>
+	<!-- 红色 -->
+    <color name="red">#CC0000</color>
+    <color name="blue">#ff0000ff</color>
+    <color name="black_333333">#333333</color>
+    <color name="green">#32B160</color>
+
+    <color name="text_color_white">@android:color/white</color>
+    <color name="color_black">@android:color/black</color>
+    <color name="color_red">#fd0101</color>
+    <color name="backgroud_color">#32B160</color>
+    <color name="logo_background_color">#F3EEE0</color>
+
+    <color name="textview_title_color_blue">#2A84B9</color>
+
+    <!-- 按钮字颜色 -->
+    <color name="tv_button_default_color">@android:color/white</color>
+    <color name="tv_default_color_blue">#4348f2</color>
+    <color name="tv_press_color_blue">#b9b9df</color>
+
+    <color name="tv_button_default_verify">#f8921a</color>
+    <color name="tv_button_verify">#f9ce9b</color>
+
+
+    <color name="tv_sysfindcar_title">#ececec</color>
+
+    <color name="list_item_select_color">#e5e1e1</color>
+    <color name="item_sticky_header_backgroundcolor">#E2E2E2</color>
+
+
+    <color name="gray_white">#ffcccccc</color>
+    <color name="customer_public_textviewbackgroundcolor">#aad88d</color>
+</resources>

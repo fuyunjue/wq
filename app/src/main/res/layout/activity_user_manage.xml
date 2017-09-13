@@ -1,0 +1,31 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xrefreshview="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    tools:context="com.cn.wq.activty.ActivityUserMagage" >
+
+    <include
+        android:id="@+id/layout_title"
+        layout="@layout/title" />
+
+    <com.andview.refreshview.XRefreshView
+        android:id="@+id/custom_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/layout_title"
+        android:background="#f3f3f3"
+        xrefreshview:isHeightMatchParent="true"
+        xrefreshview:isWidthMatchParent="true" >
+
+        <ListView
+            android:id="@+id/lv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:cacheColorHint="@color/myusedcar_listview_item_button_press_color"
+            android:choiceMode="singleChoice"
+            android:listSelector="@android:color/transparent" />
+    </com.andview.refreshview.XRefreshView>
+
+</RelativeLayout>

@@ -1,0 +1,27 @@
+<resources>
+
+    <!--
+         Customize dimensions originally defined in res/values/dimens.xml (such as
+         screen margins) for sw600dp devices (e.g. 7" tablets) here.
+    -->
+	<dimen name="dimen400">700dp</dimen>
+    <dimen name="dimen200">350dp</dimen>
+    <dimen name="dimen150">246dp</dimen>
+    <dimen name="dimen130">213dp</dimen>
+    <dimen name="dimen120">197dp</dimen>
+    <dimen name="dimen100">164dp</dimen>
+    <dimen name="dimen81">133dp</dimen>
+    <dimen name="dimen68">119dp</dimen>
+    <dimen name="dimen49">82dp</dimen>
+    <dimen name="dimen43">70dp</dimen>
+    <dimen name="dimen38">63dp</dimen>
+    <dimen name="dimen30">53dp</dimen>
+    <dimen name="dimen20">35dp</dimen>
+    <dimen name="dimen16">26dp</dimen>
+    <dimen name="dimen14">23dp</dimen>
+    <dimen name="dimen12">20dp</dimen>
+    <dimen name="dimen5">9dp</dimen>
+    <dimen name="dimen3">5dp</dimen>
+    <dimen name="dimen1">2dp</dimen>
+
+</resources>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="xrefreshview_header_hint_normal">下拉刷新</string>
+    <string name="xrefreshview_header_hint_ready">松开刷新数据</string>
+    <string name="xrefreshview_header_hint_refreshing">正在刷新...</string>
+    <string name="xrefreshview_header_hint_loading">正在加载...</string>
+    <string name="xrefreshview_header_hint_loaded">加载完成</string>
+    <string name="xrefreshview_header_last_time">上次更新时间：</string>
+    <string name="xrefreshview_footer_hint_normal">加载完成</string>
+    <string name="xrefreshview_footer_hint_fail">加载失败，请重试</string>
+    <string name="xrefreshview_footer_hint_complete">已无更多数据</string>
+    <string name="xrefreshview_footer_hint_click">点击加载更多</string>
+    <string name="xrefreshview_footer_hint_ready">松开载入更多</string>
+    <string name="xrefreshview_never_refresh">从未刷新</string>
+    <string name="xrefreshview_refresh_justnow">刚刚刷新</string>
+    <string name="xrefreshview_refresh_minutes_ago">%1s分钟之前刷新</string>
+    <string name="xrefreshview_refresh_hours_ago">%1s小时之前刷新</string>
+    <string name="xrefreshview_refresh_days_ago">%1s天之前刷新</string>
+
+    
+    <string name="app_name">採購系統</string>
+    <string name="menu_show">查看</string>
+    <string name="menu_photo">拍照</string>
+    <string name="menu_photo_v2">重新拍照</string>
+    <string name="menu_pick_photo">從相冊選擇</string>
+    <string name="menu_pick_photo_v2">從相冊重新選擇</string>
+    <string name="menu_cancel">取消</string>
+    <string name="dialog_choose_sizes">請選擇碼數</string>
+    <string name="dialog_choose_et_size_key">請輸入關鍵字搜索</string>
+    <string name="LoadText">正在加載數據...</string>
+    <string name="out_line">當前為離綫登錄模式</string>
+    <string name="network_error">當前無網絡,請檢查您的網絡</string>
+     
+    <string name="has_download">已下載過該更新包，可直接安裝</string>
+    <string name="y">是</string>
+    <string name="n">否</string>
+    <string name="versioncheck_4">新版本下載中...</string>
+    <string name="versioncheck_1">發現新版本，是否立即下載?</string>
+    <string name="versioncheck_2">最新版本：</string>
+    <string name="versioncheck_3">\n更新內容：</string>
+    <string name="state_finish_none">未完成</string>
+    <string name="state_upload_none">未上傳</string>
+    <string name="state_upload">已上傳</string>
+    <string name="tv_email">Email：</string>
+    <string name="tv_desc_chi">名稱：</string>
+    <string name="czsb">操作失敗</string>
+    <string name="dialog_message_title">提示</string>
+    <string name="dialog_text_wait">請等待...</string>
+    <string name="error_login_error">登陸失敗，請確認網絡和用戶名密碼後重試</string>
+    <string name="error_register_user_name_null">請輸入手機號碼</string>
+    <string name="error_register_password_null">請輸入登陸密碼</string>
+    <string name="register_password">請輸入帳號密碼</string>
+    <string name="login_faild">登陸失敗</string>
+    <string name="cbAutoLogin">下次自動登陸</string>
+    <string name="btn_login">登  陸</string>
+    <string name="btn_back">返回</string>
+    <string name="btn_add">新增</string>
+    <string name="tv_upload">一鍵上傳</string>
+    <string name="tv_clear">重置</string>
+    <string name="editText_phone_hint">請輸入手機號碼(登陸帳號)</string>
+    <string name="editText_name_hint">請輸入姓名</string>
+    <string name="button_add_user">新增用戶</string>
+    <string name="button_submit">新增帳號</string>
+    <string name="searchkey_hint">請輸入搜索關鍵字</string>
+    <string name="tv_purchase">檔口：</string>
+    <string name="tv_createdate">創建於：</string>
+    <string name="tv_lastupdatedate">編輯於：</string>
+    <string name="tv_phone">電話：</string>
+    <string name="tv_user_manage">員工管理</string>
+    <string name="tv_login_out">註銷</string>
+    <string name="et_kh_hint">請輸入款號(只能為數字、字母、-、=)</string>
+    <string name="et_deposit_hint">請輸入定金</string>
+    <string name="et_remark_hint">請輸入備註</string>
+    <string name="et_rj_hint">請輸入入價</string>
+    <string name="et_harvest_time_hint">請選擇預計收貨日期</string>
+    <string name="et_harvest_time_hint_v2">請選擇日期</string>
+    <string name="tv_kh">款號：</string>
+    <string name="tv_models">分類：</string>
+    <string name="tv_other">其它：</string>
+    <string name="tv_currency">貨幣：</string>
+    <string name="spinner_models_z">選擇主分類</string>
+    <string name="spinner_models_c">選擇次分類</string>
+    <string name="spinner_models_other">選擇其它</string>
+    <string name="spinner_models_currency">選擇主貨幣類型</string>
+    <string name="tv_deposit">定金：</string>
+    <string name="tv_remark">備註：</string>
+    <string name="tv_rj">入價：</string>
+    <string name="tv_harvest_time">預計收貨日期：</string>
+    <string name="tv_harvest_time_1">收貨日期：</string>
+    <string name="tv_color">顏色</string>
+    <string name="tv_amount">數量</string>
+    <string name="tv_sizes">碼數</string>
+    <string name="btn_save">保存</string>
+    <string name="tv_state">當前狀態：</string>
+    <string name="tv_photo_upload_0">(0張圖片未上傳)</string>
+    <string name="tv_photo_upload_1">張圖片未上傳)</string>
+    <string name="tv_photo_upload">(張圖片未上傳)</string>
+    <string name="searchkey_color_1">搜索</string>
+    <string name="searchkey_color">搜索關鍵字</string>
+    <string name="tv_add">添加</string>
+    <string name="tv_del">刪除</string>
+    <string name="tv_user_phone">手機號碼：</string>
+    <string name="tv_user_name">姓名：</string>
+    <string name="tv_delete">凍結該帳號</string>
+    <string name="colors_exits">已存在該顏色及碼數</string>
+    <string name="choose_photo">請至少選擇一張圖片</string>
+    <string name="title_choose_photo">選擇圖片</string>
+    <string name="choose_vendors">請先選擇門店</string>
+    <string name="choose_models_z">請選擇主分類</string>
+    <string name="choose_models_c">請選擇次分類</string>
+    <string name="edit_kh">請輸入款號</string>
+    <string name="edit_kh_matches">款號只能為數字、大小寫字母和特殊符號-、=組成</string>
+    <string name="edit_rj">請輸入入價</string>
+    <string name="edit_colors">請選擇顏色</string>
+    <string name="edit_sizes">請選擇碼數</string>
+    <string name="edit_sl">請輸入數量</string>
+    <string name="add_colors">請至少添加一款顏色和碼數</string>
+    <string name="add_success">新增成功</string>
+    <string name="add_faild">新增成功</string>
+    <string name="dialog_upload">正在上傳，請稍候...</string>
+    <string name="just">剛剛</string>
+    <string name="dialog_dqy">當前有</string>
+    <string name="dialog_upload_photo">張圖片未上傳，是否執行上傳?</string>
+    <string name="dialog_upload_purchase">條採購信息未上傳，是否執行上傳?</string>
+    <string name="dialog_syn_tables">有基礎數據需要同步到本機，現在進行同步嗎?</string>
+    <string name="dialog_syn_tables_yes">現在同步</string>
+    <string name="dialog_syn_tables_no">取消</string>
+    <string name="not_more_upload">沒有更多需要上傳的信息</string>
+    <string name="not_upload_photo">發現圖片文件不存在，請檢查，是否現在查看？</string>
+    <string name="sure">確定</string>
+    <string name="check">查看</string>
+    <string name="cancel">取消</string>
+    <string name="load_more_data">點擊加載更多</string>
+    <string name="not_more_data">沒有更多數據</string>
+    <string name="cb_sizes">碼數信息：</string>
+    <string name="cb_colors">顏色信息：</string>
+    <string name="cb_models">分類信息：</string>
+    <string name="cb_vendors">檔口信息：</string>
+    <string name="cb_detionary">字典信息：</string>
+    <string name="cb_other">其它信息：</string>
+    <string name="wait_update">等待更新,請稍等</string>
+    <string name="wait_load">請稍等,正在加載網絡數據.....</string>
+    <string name="wait_ready">請稍等,正在準備更新.....</string>
+    <string name="update_faild">更新失敗</string>
+    <string name="update_sizes">碼數信息更新(</string>
+    <string name="update_colors">顏色信息更新(</string>
+    <string name="update_models">分類信息更新(</string>
+    <string name="update_vendors">檔口信息更新(</string>
+    <string name="update_detionary">字典信息更新(</string>
+    <string name="update_other">其它信息更新(</string>
+    <string name="update_tiao">條)：</string>
+    <string name="update_finish">已完成</string>
+    <string name="login_out_msg">確定退出登錄嗎？</string>
+    
+    <string name="add_kh_v2">添加款號</string>
+    <string name="alert_clearui">確定清空當前界面錄入的數據嗎？</string>
+    <string name="edit_colors_v2">請輸入顏色</string>
+    <string name="edit_sizes_v2">請輸入碼數</string>
+    <string name="edit_amount_v2">請輸入數量</string>
+    <string name="v2_company_photo_empty">請選擇檔口照片</string>
+    <string name="v2_itemnumber_kh_empty">款號未輸入</string>
+    <string name="v2_itemnumber_size_empty">款號%s 的採購數據未完整</string>
+    
+    
+    <item type="id" name="tag_first"></item>
+    <item type="id" name="tag_second"></item>
+    <item type="id" name="tag_third"></item>
+    <item type="id" name="tag_four"></item>
+    <item type="id" name="tag_five"></item>
+    
+    
+</resources>

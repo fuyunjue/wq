@@ -1,0 +1,53 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginRight="5dp" >
+
+    <ImageView
+        android:id="@+id/iv"
+        android:layout_width="@dimen/dimen100"
+        android:layout_height="@dimen/dimen100"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="@dimen/dimen5"
+        android:layout_marginTop="@dimen/dimen5"
+        android:background="@drawable/collect_add" />
+
+    <LinearLayout
+        android:id="@+id/ll_delete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/dimen5"
+        android:visibility="invisible" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bn_close" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_info"
+        android:layout_width="@dimen/dimen100"
+        android:layout_height="@dimen/dimen43"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="@dimen/dimen5"
+        android:gravity="bottom"
+        android:visibility="gone" >
+
+        <ImageView
+            android:layout_width="@dimen/dimen100"
+            android:layout_height="@dimen/dimen100"
+            android:alpha="0.6"
+            android:background="@color/color_black" />
+
+        <LinearLayout
+            android:id="@+id/ll_text"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical"
+            android:paddingLeft="@dimen/dimen3"
+            android:paddingRight="@dimen/dimen3" >
+        </LinearLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

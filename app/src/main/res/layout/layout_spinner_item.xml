@@ -1,0 +1,13 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/dimen100"
+    android:layout_height="wrap_content" >
+
+    <TextView
+        android:id="@+id/tv_name"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/dimen5"
+        android:textColor="@android:color/black"
+        android:textSize="16sp" />
+
+</LinearLayout>
